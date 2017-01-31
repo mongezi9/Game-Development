@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>image\Map\buttons.bmp</Source>
+      <Name>image\Map\buttons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\buttons.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\example-tile-map.jpg</Source>
+      <Name>image\Map\example-tile-map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\example-tile-map.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\input.png</Source>
+      <Name>image\Map\input</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\input.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\interface.bmp</Source>
+      <Name>image\Map\interface</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\interface.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\mapMainScreen.png</Source>
+      <Name>image\Map\mapMainScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\mapMainScreen.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\minimap.png</Source>
+      <Name>image\Map\minimap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\minimap.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\type1.png</Source>
+      <Name>image\Map\type1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\type1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\type2.png</Source>
+      <Name>image\Map\type2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\type2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\type3.png</Source>
+      <Name>image\Map\type3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\type3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\type4.png</Source>
+      <Name>image\Map\type4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\type4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\type5.png</Source>
+      <Name>image\Map\type5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\type5.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\type6.png</Source>
+      <Name>image\Map\type6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\type6.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\type7.png</Source>
+      <Name>image\Map\type7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\type7.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\type8.png</Source>
+      <Name>image\Map\type8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\type8.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\minSprite1.png</Source>
+      <Name>image\Map\minSprite1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\minSprite1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\minSprite2.png</Source>
+      <Name>image\Map\minSprite2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\minSprite2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\minSprite3.png</Source>
+      <Name>image\Map\minSprite3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\minSprite3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\minSprite4.png</Source>
+      <Name>image\Map\minSprite4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\minSprite4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\minSprite5.png</Source>
+      <Name>image\Map\minSprite5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\minSprite5.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Units\pic2.png</Source>
+      <Name>image\Units\pic2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Units\pic2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Units\pic3.png</Source>
+      <Name>image\Units\pic3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Units\pic3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Units\pic4.png</Source>
+      <Name>image\Units\pic4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Units\pic4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Units\pic1.png</Source>
+      <Name>image\Units\pic1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Units\pic1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\type11.png</Source>
+      <Name>image\Map\type11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\type11.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\type9.png</Source>
+      <Name>image\Map\type9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\type9.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\type12.png</Source>
+      <Name>image\Map\type12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\type12.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\type10.png</Source>
+      <Name>image\Map\type10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\type10.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\MapInterface.bmp</Source>
+      <Name>image\Map\MapInterface</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\MapInterface.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Map\netMenu.png</Source>
+      <Name>image\Map\netMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Map\netMenu.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Network\pic1.png</Source>
+      <Name>image\Network\pic1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Network\pic1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Network\pic2.png</Source>
+      <Name>image\Network\pic2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Network\pic2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Network\pic3.png</Source>
+      <Name>image\Network\pic3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Network\pic3.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Network\pic4.png</Source>
+      <Name>image\Network\pic4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Network\pic4.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Network\buttonSkeleton.png</Source>
+      <Name>image\Network\buttonSkeleton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Network\buttonSkeleton.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Units\pic5.png</Source>
+      <Name>image\Units\pic5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Units\pic5.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Network\pic5.png</Source>
+      <Name>image\Network\pic5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Network\pic5.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Network\pic6.png</Source>
+      <Name>image\Network\pic6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Network\pic6.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Network\pic7.png</Source>
+      <Name>image\Network\pic7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Network\pic7.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Network\pic8.png</Source>
+      <Name>image\Network\pic8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Network\pic8.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Network\pic9.png</Source>
+      <Name>image\Network\pic9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Network\pic9.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Units\unit1.png</Source>
+      <Name>image\Units\unit1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\image\Units\unit1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <BuildSuccessful>false</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\</RootDirectory>
+      <LoggerRootDirectory>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T22:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T22:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T22:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T22:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T22:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T22:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-01-23T20:19:31.2183601+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

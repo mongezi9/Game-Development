@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>button\btn1.png</Source>
+      <Name>button\btn1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\btn1.xnb</Output>
+      <Time>2015-04-02T13:29:23.6087418+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR0.png</Source>
+      <Name>BackPic\DOOR0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR0.xnb</Output>
+      <Time>2015-04-02T11:59:21.2707458+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR1.png</Source>
+      <Name>BackPic\DOOR1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR1.xnb</Output>
+      <Time>2015-04-04T19:10:16.2849556+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR2.png</Source>
+      <Name>BackPic\DOOR2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR2.xnb</Output>
+      <Time>2015-04-04T19:11:07.4278808+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR3.png</Source>
+      <Name>BackPic\DOOR3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR3.xnb</Output>
+      <Time>2015-04-04T19:11:37.6096071+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR4.png</Source>
+      <Name>BackPic\DOOR4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR4.xnb</Output>
+      <Time>2015-04-04T19:11:53.2605023+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR5.png</Source>
+      <Name>BackPic\DOOR5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR5.xnb</Output>
+      <Time>2015-04-04T19:12:09.7904477+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR6.png</Source>
+      <Name>BackPic\DOOR6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR6.xnb</Output>
+      <Time>2015-04-04T19:12:25.4553437+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR7.png</Source>
+      <Name>BackPic\DOOR7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR7.xnb</Output>
+      <Time>2015-04-04T19:12:50.1177543+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\pn1.png</Source>
+      <Name>button\pn1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\pn1.xnb</Output>
+      <Time>2015-04-02T18:58:54.0614668+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\pn2.png</Source>
+      <Name>button\pn2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\pn2.xnb</Output>
+      <Time>2015-04-02T18:58:54.0934687+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\pn3.png</Source>
+      <Name>button\pn3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\pn3.xnb</Output>
+      <Time>2015-04-02T18:58:54.0964688+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\pn0.png</Source>
+      <Name>button\pn0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\pn0.xnb</Output>
+      <Time>2015-04-02T19:01:13.2294268+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR10.png</Source>
+      <Name>BackPic\DOOR10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR10.xnb</Output>
+      <Time>2015-04-06T22:25:50.8632153+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR11.png</Source>
+      <Name>BackPic\DOOR11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR11.xnb</Output>
+      <Time>2015-04-04T19:18:51.1704054+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR12.png</Source>
+      <Name>BackPic\DOOR12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR12.xnb</Output>
+      <Time>2015-04-04T19:18:51.1724055+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR13.png</Source>
+      <Name>BackPic\DOOR13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR13.xnb</Output>
+      <Time>2015-04-21T19:53:48.4740755+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR8.png</Source>
+      <Name>BackPic\DOOR8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR8.xnb</Output>
+      <Time>2015-04-06T22:25:11.0060252+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\DOOR9.png</Source>
+      <Name>BackPic\DOOR9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\DOOR9.xnb</Output>
+      <Time>2015-04-06T22:25:27.5361186+02:00</Time>
+    </Item>
+    <Item>
+      <Source>led\led0.png</Source>
+      <Name>led\led0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\led\led0.xnb</Output>
+      <Time>2015-04-16T16:30:48.4895751+02:00</Time>
+    </Item>
+    <Item>
+      <Source>led\led1.png</Source>
+      <Name>led\led1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\led\led1.xnb</Output>
+      <Time>2015-04-16T16:31:41.3345976+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\out.png</Source>
+      <Name>button\out</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\out.xnb</Output>
+      <Time>2015-04-21T19:58:41.3598276+02:00</Time>
+    </Item>
+    <Item>
+      <Source>led\led2.png</Source>
+      <Name>led\led2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\led\led2.xnb</Output>
+      <Time>2015-04-08T12:10:31.4861202+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BackPic\backImg.png</Source>
+      <Name>BackPic\backImg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\BackPic\backImg.xnb</Output>
+      <Time>2015-04-15T21:17:36.8641596+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\In1.png</Source>
+      <Name>button\In1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\In1.xnb</Output>
+      <Time>2015-04-20T23:17:49.185322+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\In2.png</Source>
+      <Name>button\In2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\In2.xnb</Output>
+      <Time>2015-04-20T23:17:28.17012+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\ctrl1.png</Source>
+      <Name>button\ctrl1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\ctrl1.xnb</Output>
+      <Time>2015-04-20T22:09:18.4071989+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\ctrl2.png</Source>
+      <Name>button\ctrl2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\ctrl2.xnb</Output>
+      <Time>2015-04-20T22:09:47.204846+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\ctrl3.png</Source>
+      <Name>button\ctrl3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\ctrl3.xnb</Output>
+      <Time>2015-04-20T22:08:21.167925+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\ctrl4.png</Source>
+      <Name>button\ctrl4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\ctrl4.xnb</Output>
+      <Time>2015-04-20T22:08:49.3275357+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\l1.png</Source>
+      <Name>button\l1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\l1.xnb</Output>
+      <Time>2015-04-21T20:00:06.4856965+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\l2.png</Source>
+      <Name>button\l2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\l2.xnb</Output>
+      <Time>2015-04-21T20:00:32.3641767+02:00</Time>
+    </Item>
+    <Item>
+      <Source>button\l3.png</Source>
+      <Name>button\l3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\button\l3.xnb</Output>
+      <Time>2015-04-21T20:00:50.8522341+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\s0.png</Source>
+      <Name>satellites\s0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\s0.xnb</Output>
+      <Time>2015-04-23T23:49:39.9609632+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\s1.png</Source>
+      <Name>satellites\s1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\s1.xnb</Output>
+      <Time>2015-04-23T23:49:57.0459404+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\s10.png</Source>
+      <Name>satellites\s10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\s10.xnb</Output>
+      <Time>2015-04-23T23:50:15.3159854+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\s11.png</Source>
+      <Name>satellites\s11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\s11.xnb</Output>
+      <Time>2015-04-23T23:50:28.8297583+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\s12.png</Source>
+      <Name>satellites\s12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\s12.xnb</Output>
+      <Time>2015-04-23T23:50:43.0335707+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\s2.png</Source>
+      <Name>satellites\s2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\s2.xnb</Output>
+      <Time>2015-04-23T23:51:00.7915864+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\s3.png</Source>
+      <Name>satellites\s3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\s3.xnb</Output>
+      <Time>2015-04-23T23:51:14.962397+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\s4.png</Source>
+      <Name>satellites\s4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\s4.xnb</Output>
+      <Time>2015-04-23T23:51:29.4032229+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\s5.png</Source>
+      <Name>satellites\s5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\s5.xnb</Output>
+      <Time>2015-04-23T23:51:45.5091441+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\s6.png</Source>
+      <Name>satellites\s6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\s6.xnb</Output>
+      <Time>2015-04-23T23:51:58.2928753+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\s7.png</Source>
+      <Name>satellites\s7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\s7.xnb</Output>
+      <Time>2015-04-23T23:52:14.879824+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\s8.png</Source>
+      <Name>satellites\s8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\s8.xnb</Output>
+      <Time>2015-04-23T23:52:39.215216+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\s9.png</Source>
+      <Name>satellites\s9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\s9.xnb</Output>
+      <Time>2015-04-23T23:52:55.7591622+02:00</Time>
+    </Item>
+    <Item>
+      <Source>satellites\CAMER.png</Source>
+      <Name>satellites\CAMER</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\satellites\CAMER.xnb</Output>
+      <Time>2015-04-23T23:28:03.9198339+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-04-11T15:17:09.7504416+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro SoftwreContent\</RootDirectory>
+      <LoggerRootDirectory>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro SoftwreContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\sansa\software\2D environment\2D enviro Softwre\2D enviro Softwre\2D enviro Softwre\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T22:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T22:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T22:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T22:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T22:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T22:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-01-23T20:19:31.2183601+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

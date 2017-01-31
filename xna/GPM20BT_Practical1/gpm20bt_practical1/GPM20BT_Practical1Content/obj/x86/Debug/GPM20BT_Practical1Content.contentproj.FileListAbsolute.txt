@@ -1,0 +1,19 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\GPM20BT_Practical1Content.contentprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\GPM20BT_Practical1Content.contentprojResolveAssemblyReference.cache
+L:\SCHOOL\GPM20BT\V2\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\SCHOOL\GPM20BT\V2\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\GPM20BT_Practical1Content.contentprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\V2\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\GPM20BT_Practical1Content.contentprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\desk\V2\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\GPM20BT_Practical1Content.contentprojResolveAssemblyReference.cache
+G:\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TJARRO\Documents\C++KG\GPM20BT\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SKUL_STUFF\GPM20BT\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Googpm\rts\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\goo\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\mthimunye\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emmanuel\Documents\desktopIccon2\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+B:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+B:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\GPM20BT_Practical1Content.contentprojResolveAssemblyReference.cache
+H:\documents\Artificial Intelligence programming\GPM20BT_Practical1\GPM20BT_Practical1\GPM20BT_Practical1Content\obj\x86\Debug\ResolveAssemblyReference.cache
