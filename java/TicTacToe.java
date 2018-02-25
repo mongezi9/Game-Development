@@ -6,8 +6,6 @@
 package tictactoe;
 
 /*
-Developer
-
 Full Name:Emmanuel Mongezi
 Surname: Mthimunye
 Topic: Assignment 3, Game design
